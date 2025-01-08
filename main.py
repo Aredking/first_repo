@@ -1,2 +1,3 @@
-print('hello world')
-print('python')
+for i in range(5):
+    print('hello world')
+    print('python')
